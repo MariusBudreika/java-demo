@@ -1,4 +1,6 @@
-PirmasFailas.java
- PirmasFailas
 Antras.java
  Antras
+PirmasFailas.java
+ PirmasFailas
+PirmaUzduotisTrikamis.java
+ PirmaUzduotisTrikamis
