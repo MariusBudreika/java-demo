@@ -1,6 +1,8 @@
+PirmaUzduotisTrikamis.java
+ PirmaUzduotisTrikamis
 Antras.java
  Antras
 PirmasFailas.java
  PirmasFailas
-PirmaUzduotisTrikamis.java
- PirmaUzduotisTrikamis
+AntraUzduotisRusiavimas.java
+ AntraUzduotisRusiavimas

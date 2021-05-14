@@ -1,6 +1,6 @@
 public class PirmaUzduotisTrikamis {
     public static void main(String[] args) {
-        double a = 2;
+        double a = 3;
         double b = 3;
         double c = 3;
 
