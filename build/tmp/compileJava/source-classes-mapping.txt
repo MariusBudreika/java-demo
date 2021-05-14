@@ -4,5 +4,7 @@ Antras.java
  Antras
 PirmasFailas.java
  PirmasFailas
-AntraUzduotisRusiavimas.java
- AntraUzduotisRusiavimas
+AntraUzdRusiavimas.java
+ AntraUzdRusiavimas
+TreciaUzdMasyvuVidurkiai.java
+ TreciaUzdMasyvuVidurkiai

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class AntraUzduotisRusiavimas {
+public class AntraUzdRusiavimas {
     public static void main(String[] args) {
         int[] a = {-10, 0, 2, 9, -5};
         int temp = 0;
