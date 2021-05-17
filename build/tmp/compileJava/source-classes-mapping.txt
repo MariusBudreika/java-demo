@@ -1,10 +1,14 @@
 PirmaUzduotisTrikamis.java
  PirmaUzduotisTrikamis
-Antras.java
- Antras
-PirmasFailas.java
- PirmasFailas
 AntraUzdRusiavimas.java
  AntraUzdRusiavimas
 TreciaUzdMasyvuVidurkiai.java
  TreciaUzdMasyvuVidurkiai
+Antras.java
+ Antras
+PirmasFailas.java
+ PirmasFailas
+Uzdavinys1.java
+ Uzdavinys1
+Uzdavinys2.java
+ Uzdavinys2
