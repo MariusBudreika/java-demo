@@ -8,6 +8,8 @@ TreciaUzdMasyvuVidurkiai.java
  TreciaUzdMasyvuVidurkiai
 Antras.java
  Antras
+SachmatuLenta.java
+ SachmatuLenta
 PirmasFailas.java
  PirmasFailas
 Uzdavinys1.java

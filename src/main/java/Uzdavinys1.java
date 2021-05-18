@@ -73,3 +73,15 @@ public class Uzdavinys1 {
     }
 
 }
+
+
+
+//    int number = 32;
+//    long temp = 1;
+//    long suma = 1;
+//        for (int i = 1; i < number; i++) {
+//        temp *= 2;
+//        suma += temp;
+//        }
+//        System.out.println(suma);
+//        }
