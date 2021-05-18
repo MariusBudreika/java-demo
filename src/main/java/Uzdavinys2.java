@@ -12,8 +12,8 @@
 
 public class Uzdavinys2 {
     public static void main(String[] args) {
-        System.out.println("15.545678 -2 => " + apvalinti(1554.5678, -3));
-        System.out.println("15.545678 -2 => " + apvalinti(155.45678, -2));
+        System.out.println("15.545678 -3 => " + apvalinti(1554.5678, -3));
+        System.out.println("15.545678 -2 => " + apvalinti(15.545678, -2));
         System.out.println("15.545678 -1 => " + apvalinti(15.545678, -1));
         System.out.println("15.545678  0 => " + apvalinti(15.545678, 0));
         System.out.println("15.545678  1 => " + apvalinti(15.545678, 1));
@@ -41,7 +41,8 @@ public class Uzdavinys2 {
 
             double likutis =  (Math.floor((d - Math.floor(d) + b) * a))/a;
             return Math.floor(d) + likutis;
-
+//            int calc = (int)Math.pow(10, tikslumas);
+//            return Math.floor(d * calc+0.5)/calc;
         } else {
             int a = 1;
             double b = 0.5;
