@@ -1,10 +1,11 @@
+import java.math.BigInteger;
 import java.util.Scanner;
 
-public class SachmatuLenta {
+public class SachmatuLentaBitInt {
     public static void main(String[] args) {
         System.out.println("pradzia");
         int a = SkaiciausIvedimasInteraktyviai();
-        long suma = skaiciavimas(a);
+        BigInteger suma = skaiciavimas(a);
         rezultatoIsvedimas(suma);
     }
 
@@ -17,17 +18,18 @@ public class SachmatuLenta {
         return a;
     }
 
-    static long skaiciavimas(int a) {
-    long temp = 1;
-    long suma = 1;
+    static BigInteger skaiciavimas(int a) {
+        BigInteger temp = new BigInteger("1");
+        BigInteger suma = new BigInteger("1");
         for (int i = 1; i < a; i++) {
-        temp *= 2;
-        suma += temp;
+            temp = temp.multiply(BigInteger.TWO);
+            suma = suma.add(temp);
+            System.out.println(suma);
         }
         return suma;
-        }
+    }
 
-    static void rezultatoIsvedimas (long suma) {
+    static void rezultatoIsvedimas(BigInteger suma) {
         System.out.println(suma);
     }
 }
